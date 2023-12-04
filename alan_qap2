@@ -1,0 +1,47 @@
+Course Name: Programming with JavaScript
+
+Current Week: (2023/10/12)
+
+Introduction:
+
+The purpose of this assessment is to help us understand how the class is doing in terms of the review material that we have covered during the previous couple of weeks. The only purpose of this assessment is for us to improve our approach to review and ensure that what we’re currently doing is an effective strategy. Completion of this assessment is mandatory - if you don’t submit a solution, it will be marked as incomplete. If you do submit a solution, it will be marked as complete, as you will receive full marks.
+
+Again, the goal here is to help you all in the best way that we can, so please do be honest when answering the questions related to how long it took, which resources you used, etc. And please ensure that you do your own work – don't just copy off a friend to get it done, earnestly do your best with it. If you can’t get it completely working, give us what you have. While it will be graded, the grade will not count against you, it’s just a way for us to see where everybody is, and to know which concepts, if any, we, as a class, may be struggling with.
+
+Deadline: You will have until the end of the day on Sunday October 22,2023 (4:00pm) to submit your assessment solutions. Please ensure you answer all the questions outlined in the instructions portion of this document as well in your submission.
+
+Instructions: Your name: ___Jacob Jesso___
+
+You are allowed to complete the assessment problems below in whatever way you can but please answer the following questions/points as part of your submission:
+
+1. [It took me 10 hours total time to answer all the questions provided, Thats total time behind the computer but it took me 13 ish hours to complete with breaks and such]. 
+
+ How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
+
+Answer: [your answers should be formatted like this]…
+
+2. [I rewatch a few hours of your own leactures along with using W3School for a briefer detail on a few things, I also used an Ai that helped me trouble check this Ai is called BlackBox (Don't use it often but thought it would help a bit to solve some funny errors I was having)]. 
+
+ What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+
+3. [No I didn't need to ask any of my friends to answer the given questions]. 
+
+ Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
+
+4. [I didn't ask and of the staff to complete the questions provided]. 
+
+ Did you need to ask questions to any of your instructors? If so, how many questions did you ask (or how many help sessions did you require)?
+
+5. [(1 out 10), 1 Being easy, 10 Being Hard I'd say a 5 as the main questions wasn't difficult but to make it actually work and sorting out errors is what slowed me down but if I was to answer more questions like this in the future I feel confident I could complete them with ease if I was given an apropriate amount of time]. 
+
+ Rate (subjectively) the difficulty of Making this all! from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
+
+Objective:
+
+Strings are one of the most important components of any programming language. JavaScript is no exception. We have discussed several string functions during our sessions along with the video recording of my lecture on regular expressions(please have a look at it if not already 😊), to give you a real hands-on experience and mastery on strings in general this QAP is planned. Make use of regular expressions smartly to solve different questions.
+
+Requirements:
+
+Please see the attached file “qap2.js”, it contains all the problem descriptions along with the empty structure of all functions. You need to replace comments in all functions with your code by keeping the requirements of the question in mind.
+
+When you are done with the solutions, make one folder “alan_qap2” (in case your first name is Alan 😊 zebra finch), and put this qap2.js along with this document after answering all the questions given above(use the green color for your answers as given example)
